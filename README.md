@@ -7,7 +7,6 @@ Trabalho prático desenvolvido para a disciplina de Big Data do curso de Bachare
 ## 👥 Integrantes do Grupo
 * Isaac de Brito Carvalho
 * Arthur Batista
-* Nome do Integrante 3
 
 ---
 
