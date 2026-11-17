@@ -19,6 +19,7 @@ Neste projeto, construímos um pipeline de dados distribuído utilizando PySpark
 
 ## 🛠️ Tecnologias Utilizadas
 * **Python**
+* **Google Collab**
 * **Apache Spark / PySpark** (`pyspark.sql`, *Window Functions*)
 * **Jupyter Notebook**
 
