@@ -27,7 +27,7 @@ Neste projeto, construímos um pipeline de dados distribuído utilizando PySpark
 ## 📁 Estrutura do Repositório
 ```text
 ├── data/                  # Contém amostras dos dados de trânsito/GPS utilizados
-├── notebooks/             # Jupyter Notebooks com o pipeline de ETL e análises
+├── .PY e .IPNBY/             # Jupyter Notebooks com o pipeline de ETL e análises
 ├── presentation/          # Slides da apresentação do seminário (PDF/PPTX)
 ├── requirements.txt       # Lista de dependências do projeto
 └── README.md              # Documentação principal do projeto
